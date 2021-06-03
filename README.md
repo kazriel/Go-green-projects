@@ -9,3 +9,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Referensi
 
 [fix cors error from stackoverflow](https://stackoverflow.com/questions/46640024/how-do-i-post-form-data-with-fetch-api) fix cors error from stackoverflow
+
+. 
