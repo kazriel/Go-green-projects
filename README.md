@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img align="center"  src="https://storage.googleapis.com/b21-cap0199/logo.png"  width="270"></img>
+  <img align="center"  src="https://storage.googleapis.com/b21-cap0199/leaf2.png"  ></img>
 <br>
 Go Green Project
 </h1>
@@ -12,8 +12,8 @@ For Capstone Project Bangkit 2021
 ## Team Manut || B21-CAP0199
 
 - **Cloud Computing Path**
-  - [Huddin](https://github.com/Dinel13/ "salahuddin's github profile") (C2082045) as **Full stack Developer**
-  - [Ainun](https://github.com/kazriel/ "Ainun's github profile") (C2082042) as **Cloud Architec and Engineer**
+  - [Huddin](https://github.com/Dinel13/ "salahuddin's github profile") (C2082045) as **Full-Stack Developer**
+  - [Ainun](https://github.com/kazriel/ "Ainun's github profile") (C2082042) as **Cloud and Engineer**
 - **Android Path**
   - [Alawi](https://github.com/wiwittt27/ "Alawi Github profile") (C2082042) as **Android Developer**
   - [Dicky](https://github.com/dicky7/ "Dicky Github profile") (C2082042) as **Android Developer**
